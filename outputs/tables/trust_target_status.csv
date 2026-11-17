@@ -1,0 +1,121 @@
+org_code,org_name,region,march_2025_pct,march_2026_pct,improvement_last_year_pts,gap_to_82_pts,recent_3m_pct,same_3m_last_year_pct,autumn_yoy_change_pts,if_last_year_repeated_pct,met_78_in_march_2026,status,pct_4h_12m,pct_4h_type1_12m,type3_share_12m,trolley_per_100_adm_12m,admission_rate_12m,attendances_12m,rank_all_types,rank_major_ae
+RCU,Sheffield Children's NHS Foundation Trust,North East and Yorkshire,90.57,98.05,7.48,0.00,90.18,94.02,-3.83,105.54,True,Already at 82%,92.03,91.40,7.56,0.00,19.75,61730,1.00,1.00
+RTF,Northumbria Healthcare NHS Foundation Trust,North East and Yorkshire,89.23,91.14,1.91,0.00,90.74,89.01,1.73,93.06,True,Already at 82%,89.96,77.26,55.86,0.00,18.15,291075,2.00,7.00
+RLT,George Eliot Hospital NHS Trust,Midlands,66.36,90.96,24.60,0.00,83.48,75.87,7.61,115.56,True,Already at 82%,84.43,80.94,18.65,24.18,13.07,108164,5.00,4.00
+RWG,West Hertfordshire Teaching Hospitals NHS Trust,East of England,81.88,90.36,8.48,0.00,87.59,84.03,3.55,98.84,True,Already at 82%,86.57,73.79,50.72,0.47,28.26,207408,3.00,12.00
+RWY,Calderdale and Huddersfield NHS Foundation Trust,North East and Yorkshire,81.75,87.79,6.04,0.00,84.66,83.62,1.04,93.82,True,Already at 82%,84.07,84.07,0.00,2.39,18.14,193398,6.00,3.00
+RBK,Walsall Healthcare NHS Trust,Midlands,75.30,86.69,11.38,0.00,76.71,75.83,0.87,98.07,True,Already at 82%,77.87,69.50,30.33,7.03,30.23,170654,25.00,23.00
+RVW,North Tees and Hartlepool NHS Foundation Trust,North East and Yorkshire,85.61,86.19,0.59,0.00,80.93,83.31,-2.38,86.78,True,Already at 82%,82.98,45.76,69.01,1.20,13.24,196348,7.00,117.00
+RNA,The Dudley Group NHS Foundation Trust,Midlands,80.49,85.41,4.92,0.00,79.45,77.74,1.71,90.33,True,Already at 82%,78.32,69.68,30.76,4.46,23.53,178111,23.00,21.00
+RQX,Homerton Healthcare NHS Foundation Trust,London,82.84,85.09,2.25,0.00,79.78,80.92,-1.13,87.35,True,Already at 82%,80.79,80.79,0.00,1.34,15.98,136057,11.00,5.00
+R1K,London North West University Healthcare NHS Trust,London,78.11,84.21,6.10,0.00,75.47,74.53,0.95,90.31,True,Already at 82%,76.42,52.33,53.00,8.74,21.19,359686,33.00,96.00
+RBS,Alder Hey Children's NHS Foundation Trust,North West,79.82,83.48,3.66,0.00,87.52,87.92,-0.40,87.14,True,Already at 82%,85.12,85.12,0.00,0.00,14.84,73491,4.00,2.00
+RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,East of England,81.75,82.97,1.23,0.00,79.99,80.64,-0.65,84.20,True,Already at 82%,80.81,69.52,37.13,12.27,11.08,251846,9.00,22.00
+RAE,Bradford Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,82.96,82.94,-0.02,0.00,82.58,83.42,-0.84,82.94,True,Already at 82%,82.61,74.30,25.23,4.99,18.49,166335,8.00,11.00
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,North West,79.61,82.74,3.13,0.00,75.55,77.11,-1.56,85.87,True,Already at 82%,77.60,54.28,53.14,20.64,10.96,231529,28.00,86.00
+RN7,Dartford and Gravesham NHS Trust,South East,76.62,81.78,5.16,0.22,79.92,81.41,-1.50,86.93,True,Reachable at last year's pace,80.80,74.71,24.92,9.98,24.16,188298,10.00,10.00
+RXR,East Lancashire Hospitals NHS Trust,North West,79.69,81.33,1.64,0.67,76.79,78.93,-2.14,82.97,True,Reachable at last year's pace,78.37,65.74,44.75,24.88,16.36,301340,22.00,31.00
+RRV,University College London Hospitals NHS Foundation Trust,London,72.83,80.86,8.02,1.14,73.86,72.26,1.60,88.88,True,Reachable at last year's pace,75.05,75.05,0.00,12.44,10.30,169542,41.00,9.00
+RAS,The Hillingdon Hospitals NHS Foundation Trust,London,75.78,80.80,5.02,1.20,81.70,79.38,2.32,85.82,True,Reachable at last year's pace,80.14,55.49,56.25,1.27,14.44,147263,13.00,80.00
+RAL,Royal Free London NHS Foundation Trust,London,74.80,80.66,5.86,1.34,80.31,78.07,2.24,86.51,True,Reachable at last year's pace,79.26,69.33,37.06,30.03,14.98,526190,16.00,24.00
+RFF,Barnsley Hospital NHS Foundation Trust,North East and Yorkshire,80.22,80.52,0.30,1.48,71.90,73.49,-1.59,80.82,True,Needs faster improvement,73.69,73.69,0.00,0.76,34.76,115495,51.00,13.00
+RWF,Maidstone and Tunbridge Wells NHS Trust,South East,85.11,80.26,-4.85,1.74,76.10,80.49,-4.38,80.26,True,Needs faster improvement,77.69,75.61,8.94,15.80,10.14,263533,26.00,8.00
+RTH,Oxford University Hospitals NHS Foundation Trust,South East,68.45,80.21,11.77,1.79,80.18,79.07,1.11,91.98,True,Reachable at last year's pace,79.01,72.21,17.78,0.16,27.93,233285,19.00,17.00
+RNQ,Kettering General Hospital NHS Foundation Trust,Midlands,80.20,80.20,-0.00,1.80,78.73,79.76,-1.04,80.20,True,Needs faster improvement,79.44,62.91,44.78,33.70,9.66,236644,14.00,45.00
+RYJ,Imperial College Healthcare NHS Trust,London,75.86,80.10,4.24,1.90,75.34,75.71,-0.37,84.34,True,Reachable at last year's pace,76.97,58.96,32.31,1.54,15.20,287161,30.00,66.00
+RJC,South Warwickshire University NHS Foundation Trust,Midlands,69.17,80.10,10.93,1.90,70.03,75.56,-5.53,91.03,True,Reachable at last year's pace,73.84,72.54,4.76,5.85,20.09,107339,49.00,16.00
+RTR,South Tees Hospitals NHS Foundation Trust,North East and Yorkshire,75.58,80.04,4.47,1.96,77.27,77.27,0.00,84.51,True,Reachable at last year's pace,78.43,51.22,60.33,0.74,14.04,229759,21.00,98.00
+RC9,Bedfordshire Hospitals NHS Foundation Trust,East of England,71.93,79.98,8.05,2.02,72.86,75.09,-2.23,88.03,True,Reachable at last year's pace,75.60,63.13,33.80,0.93,19.59,322206,40.00,44.00
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,North East and Yorkshire,77.54,79.82,2.28,2.18,76.35,77.19,-0.84,82.10,True,Reachable at last year's pace,76.80,57.21,40.73,0.67,16.65,281570,31.00,74.00
+RL4,The Royal Wolverhampton NHS Trust,Midlands,81.60,79.73,-1.86,2.27,79.73,79.11,0.61,79.73,True,Needs faster improvement,79.30,64.47,37.33,12.70,22.98,248151,15.00,39.00
+RQW,The Princess Alexandra Hospital NHS Trust,East of England,69.36,79.69,10.32,2.31,77.49,78.05,-0.55,90.01,True,Reachable at last year's pace,79.13,72.93,22.92,14.93,15.91,136461,17.00,14.00
+REF,Royal Cornwall Hospitals NHS Trust,South West,78.04,79.59,1.55,2.41,75.90,80.66,-4.76,81.15,True,Needs faster improvement,76.52,47.01,63.19,23.14,13.27,232514,32.00,113.00
+RJ6,Croydon Health Services NHS Trust,London,82.10,79.38,-2.72,2.62,72.45,74.82,-2.37,79.38,True,Needs faster improvement,73.43,63.56,27.08,61.17,6.00,220309,56.00,42.00
+RD8,Milton Keynes University Hospital NHS Foundation Trust,East of England,74.46,79.34,4.89,2.66,69.55,73.29,-3.75,84.23,True,Reachable at last year's pace,70.91,53.55,39.03,0.10,16.00,178963,73.00,93.00
+RXP,County Durham and Darlington NHS Foundation Trust,North East and Yorkshire,79.75,79.12,-0.64,2.88,76.97,78.87,-1.89,79.12,True,Needs faster improvement,77.33,57.83,46.24,0.73,17.90,287350,29.00,70.00
+RQM,Chelsea and Westminster Hospital NHS Foundation Trust,London,79.91,79.07,-0.84,2.93,78.22,77.50,0.72,79.07,True,Needs faster improvement,78.16,72.63,24.08,1.76,10.59,332741,24.00,15.00
+RBD,Dorset County Hospital NHS Foundation Trust,South West,84.34,79.03,-5.31,2.97,77.65,81.63,-3.98,79.03,True,Needs faster improvement,77.62,59.33,45.14,3.35,21.13,113123,27.00,64.00
+RCD,Harrogate and District NHS Foundation Trust,North East and Yorkshire,78.91,78.80,-0.11,3.20,71.04,77.88,-6.84,78.80,True,Needs faster improvement,73.09,65.60,21.93,1.15,16.62,84871,59.00,33.00
+RR8,Leeds Teaching Hospitals NHS Trust,North East and Yorkshire,79.28,78.58,-0.70,3.42,75.95,76.53,-0.58,78.58,True,Needs faster improvement,75.90,62.07,36.04,17.23,12.03,366762,36.00,51.00
+RDU,Frimley Health NHS Foundation Trust,South East,73.02,78.55,5.53,3.45,73.76,73.56,0.20,84.07,True,Reachable at last year's pace,73.81,60.78,32.20,9.65,18.55,422572,50.00,57.00
+R0B,South Tyneside and Sunderland NHS Foundation Trust,North East and Yorkshire,74.30,78.41,4.11,3.59,76.28,70.88,5.40,82.52,True,Reachable at last year's pace,74.20,58.14,34.75,0.02,22.71,252347,46.00,69.00
+RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",London,78.39,78.32,-0.06,3.68,81.64,78.48,3.15,78.32,True,Needs faster improvement,79.01,56.76,48.23,19.41,11.76,374613,18.00,77.00
+RXQ,Buckinghamshire Healthcare NHS Trust,South East,78.86,78.26,-0.60,3.74,77.86,75.11,2.75,78.26,True,Needs faster improvement,74.43,63.73,22.18,5.20,32.74,167312,44.00,41.00
+RGR,West Suffolk NHS Foundation Trust,East of England,88.39,78.23,-10.16,3.77,77.72,71.01,6.71,78.23,True,Needs faster improvement,74.00,70.70,11.32,19.99,20.45,108843,48.00,20.00
+RJ7,St George's University Hospitals NHS Foundation Trust,London,83.64,78.21,-5.43,3.79,79.70,78.47,1.23,78.21,True,Needs faster improvement,78.86,71.41,29.54,24.79,14.36,160970,20.00,19.00
+RAX,Kingston and Richmond NHS Foundation Trust,London,78.18,78.06,-0.12,3.94,70.85,72.62,-1.77,78.06,True,Needs faster improvement,73.19,46.89,53.47,16.03,18.46,185915,58.00,114.00
+RRF,"Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust",North West,71.71,78.05,6.34,3.95,69.60,74.67,-5.07,84.39,True,Reachable at last year's pace,71.57,49.66,44.90,14.32,18.32,154257,68.00,103.00
+RK5,Sherwood Forest Hospitals NHS Foundation Trust,Midlands,75.17,77.56,2.38,4.44,72.85,68.04,4.81,79.94,False,Needs faster improvement,70.04,60.50,33.30,9.38,22.06,204725,80.00,59.00
+RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,74.74,77.45,2.72,4.55,73.76,70.65,3.11,80.17,False,Needs faster improvement,72.33,64.47,22.20,5.33,24.05,217346,64.00,40.00
+RXC,East Sussex Healthcare NHS Trust,South East,71.10,77.20,6.09,4.80,73.07,76.41,-3.35,83.29,False,Reachable at last year's pace,73.53,65.35,24.53,6.70,17.71,185597,55.00,36.00
+R0A,Manchester University NHS Foundation Trust,North West,73.91,77.16,3.25,4.84,72.08,71.51,0.56,80.41,False,Needs faster improvement,73.63,61.72,26.04,1.66,13.17,554643,54.00,53.00
+R1F,Isle of Wight NHS Trust,South East,67.26,77.00,9.74,5.00,79.34,75.00,4.34,86.75,False,Reachable at last year's pace,75.80,66.72,26.42,12.66,23.05,74024,38.00,27.00
+RHW,Royal Berkshire NHS Foundation Trust,South East,70.46,76.93,6.47,5.07,75.00,75.28,-0.28,83.41,False,Reachable at last year's pace,75.89,65.49,16.94,1.20,12.57,219716,37.00,34.00
+RDE,East Suffolk and North Essex NHS Foundation Trust,East of England,78.37,76.72,-1.66,5.28,76.32,72.18,4.15,76.72,False,Needs faster improvement,76.09,57.38,52.77,11.44,20.16,300576,35.00,73.00
+RHU,Portsmouth Hospitals University NHS Trust,South East,69.97,76.60,6.62,5.40,71.11,72.15,-1.04,83.22,False,Reachable at last year's pace,72.95,62.35,22.71,35.61,17.38,219446,61.00,48.00
+RQ3,Birmingham Women's and Children's NHS Foundation Trust,Midlands,87.69,76.58,-11.11,5.42,81.89,86.41,-4.52,76.58,False,Needs faster improvement,80.67,78.50,10.11,0.20,11.24,65197,12.00,6.00
+RPA,Medway NHS Foundation Trust,South East,77.43,76.39,-1.04,5.61,72.52,74.58,-2.05,76.39,False,Needs faster improvement,73.65,64.51,39.98,41.42,10.47,200285,53.00,38.00
+RKB,University Hospitals Coventry and Warwickshire NHS Trust,Midlands,72.21,76.34,4.12,5.66,75.22,73.94,1.28,80.46,False,Needs faster improvement,74.60,59.64,27.67,1.19,5.37,257018,42.00,62.00
+R1H,Barts Health NHS Trust,London,70.88,75.85,4.97,6.15,73.90,71.25,2.65,80.83,False,Needs faster improvement,73.06,59.53,40.46,28.51,9.31,546211,60.00,63.00
+RJ2,Lewisham and Greenwich NHS Trust,London,65.75,75.84,10.09,6.16,72.89,71.51,1.38,85.93,False,Reachable at last year's pace,74.53,49.06,52.17,15.12,12.48,409720,43.00,108.00
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,73.10,75.83,2.73,6.17,71.75,71.88,-0.12,78.55,False,Needs faster improvement,72.45,49.25,43.82,0.27,16.75,226457,63.00,106.00
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,Midlands,75.01,75.26,0.25,6.74,74.01,76.20,-2.19,75.51,False,Needs faster improvement,73.67,55.63,38.90,14.57,12.32,257664,52.00,79.00
+RR7,Gateshead Health NHS Foundation Trust,North East and Yorkshire,74.54,75.11,0.57,6.89,76.50,77.73,-1.23,75.68,False,Needs faster improvement,75.73,57.62,43.73,0.23,17.29,124013,39.00,71.00
+RVR,Epsom and St Helier University Hospitals NHS Trust,London,74.13,75.09,0.96,6.91,70.04,74.47,-4.43,76.05,False,Needs faster improvement,70.17,66.49,19.57,37.02,15.05,163835,79.00,28.00
+RNS,Northampton General Hospital NHS Trust,Midlands,65.77,75.02,9.25,6.98,68.89,65.42,3.47,84.26,False,Reachable at last year's pace,70.26,62.37,17.23,35.09,17.48,164287,78.00,47.00
+RA2,Royal Surrey NHS Foundation Trust,South East,75.84,74.87,-0.97,7.13,73.68,72.86,0.81,74.87,False,Needs faster improvement,74.23,66.75,22.50,1.15,23.63,119208,45.00,26.00
+RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,North West,74.28,74.73,0.45,7.27,73.09,73.02,0.07,75.18,False,Needs faster improvement,72.71,61.97,29.09,6.12,31.21,301386,62.00,52.00
+RWH,East and North Hertfordshire Teaching NHS Trust,East of England,73.79,74.73,0.94,7.27,73.40,75.79,-2.39,75.66,False,Needs faster improvement,73.41,49.52,48.29,7.59,12.78,214066,57.00,105.00
+RWD,United Lincolnshire Teaching Hospitals NHS Trust,Midlands,69.60,74.57,4.97,7.43,69.52,65.29,4.23,79.54,False,Needs faster improvement,70.67,65.37,19.84,23.70,22.21,264017,75.00,35.00
+RKE,Whittington Health NHS Trust,London,71.99,74.50,2.52,7.50,73.07,70.56,2.51,77.02,False,Needs faster improvement,72.09,72.09,0.00,19.37,14.56,112076,65.00,18.00
+RJ1,Guy's and St Thomas' NHS Foundation Trust,London,79.13,74.39,-4.74,7.61,75.48,77.89,-2.41,74.39,False,Needs faster improvement,76.37,62.48,39.86,3.52,11.79,212323,34.00,46.00
+RVV,East Kent Hospitals University NHS Foundation Trust,South East,74.56,74.32,-0.24,7.68,71.44,74.57,-3.13,74.32,False,Needs faster improvement,74.08,53.94,48.06,30.67,13.58,316454,47.00,89.00
+RXF,Mid Yorkshire Teaching NHS Trust,North East and Yorkshire,70.47,74.32,3.86,7.68,70.14,72.78,-2.63,78.18,False,Needs faster improvement,71.62,61.64,28.05,11.46,15.15,282530,67.00,54.00
+RFS,Chesterfield Royal Hospital NHS Foundation Trust,Midlands,70.81,74.18,3.37,7.82,71.30,68.53,2.77,77.55,False,Needs faster improvement,70.65,48.00,44.61,13.62,16.33,153547,76.00,111.00
+RM3,Northern Care Alliance NHS Foundation Trust,North West,68.76,73.61,4.85,8.39,70.95,70.97,-0.02,78.46,False,Needs faster improvement,71.02,62.14,25.79,14.58,22.15,431758,72.00,49.00
+RH5,Somerset NHS Foundation Trust,South West,72.20,72.82,0.62,9.18,72.17,71.76,0.41,73.45,False,Needs faster improvement,71.19,50.83,44.18,3.58,14.34,259371,70.00,99.00
+RHM,University Hospital Southampton NHS Foundation Trust,South East,60.14,72.48,12.34,9.52,69.26,64.77,4.49,84.82,False,Reachable at last year's pace,68.76,65.91,0.00,0.32,30.15,155046,86.00,29.00
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,North East and Yorkshire,71.51,72.22,0.71,9.78,68.81,71.65,-2.84,72.94,False,Needs faster improvement,69.05,49.02,40.14,15.45,31.58,208225,84.00,109.00
+RXN,Lancashire Teaching Hospitals NHS Foundation Trust,North West,69.07,72.18,3.11,9.82,73.80,69.87,3.93,75.29,False,Needs faster improvement,71.65,65.65,21.05,12.47,20.45,190890,66.00,32.00
+RGN,North West Anglia NHS Foundation Trust,East of England,67.09,72.18,5.09,9.82,67.27,70.70,-3.43,77.26,False,Needs faster improvement,69.32,61.55,22.22,20.68,18.77,252565,83.00,55.00
+RJZ,King's College Hospital NHS Foundation Trust,London,72.19,72.14,-0.06,9.86,69.61,71.57,-1.96,72.14,False,Needs faster improvement,70.32,55.33,39.44,21.68,13.69,313221,77.00,81.00
+RGT,Cambridge University Hospitals NHS Foundation Trust,East of England,71.42,71.49,0.07,10.51,67.38,72.91,-5.52,71.55,False,Needs faster improvement,68.71,54.96,32.33,15.88,16.48,208649,89.00,83.00
+RWP,Worcestershire Acute Hospitals NHS Trust,Midlands,65.97,71.45,5.48,10.55,65.64,63.31,2.33,76.93,False,Needs faster improvement,66.81,53.61,29.24,31.68,15.79,242564,96.00,92.00
+RGP,James Paget University Hospitals NHS Foundation Trust,East of England,63.10,71.43,8.33,10.57,67.11,68.98,-1.87,79.75,False,Needs faster improvement,70.76,64.71,17.13,23.32,17.29,110991,74.00,37.00
+RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,North East and Yorkshire,65.08,70.98,5.89,11.02,61.99,68.44,-6.45,76.87,False,Needs faster improvement,65.75,50.33,34.46,8.09,23.30,224701,101.00,102.00
+RTG,University Hospitals of Derby and Burton NHS Foundation Trust,Midlands,70.67,70.65,-0.02,11.35,66.92,71.48,-4.56,70.65,False,Needs faster improvement,67.93,54.30,29.94,18.90,12.76,379050,92.00,85.00
+RH8,Royal Devon University Healthcare NHS Foundation Trust,South West,66.79,70.42,3.63,11.58,64.07,66.46,-2.39,74.06,False,Needs faster improvement,65.85,55.14,23.99,8.15,17.06,228277,99.00,82.00
+RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,North West,72.17,70.31,-1.86,11.69,72.60,73.82,-1.22,70.31,False,Needs faster improvement,71.14,57.21,34.56,20.52,22.65,166443,71.00,75.00
+RWJ,Stockport NHS Foundation Trust,North West,68.98,70.14,1.16,11.86,69.77,68.16,1.61,71.30,False,Needs faster improvement,68.72,60.53,22.25,11.96,24.39,131199,88.00,58.00
+REM,Liverpool University Hospitals NHS Foundation Trust,North West,67.53,70.04,2.51,11.96,68.25,67.92,0.33,72.56,False,Needs faster improvement,68.20,50.78,30.88,23.22,18.70,327643,91.00,100.00
+RNZ,Salisbury NHS Foundation Trust,South West,70.99,69.27,-1.72,12.73,66.89,69.96,-3.07,69.27,False,Needs faster improvement,69.61,54.81,28.28,12.90,17.95,87924,82.00,84.00
+RFR,The Rotherham NHS Foundation Trust,North East and Yorkshire,65.49,69.05,3.57,12.95,69.83,70.00,-0.17,72.62,False,Needs faster improvement,68.93,68.93,0.00,1.24,19.40,117512,85.00,25.00
+RN3,Great Western Hospitals NHS Foundation Trust,South West,70.07,68.88,-1.19,13.12,64.12,68.71,-4.59,68.88,False,Needs faster improvement,66.90,51.57,41.09,14.15,22.47,143125,95.00,97.00
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,North West,68.88,68.87,-0.01,13.13,63.77,63.93,-0.16,68.87,False,Needs faster improvement,63.78,53.76,23.02,37.92,13.76,140578,107.00,91.00
+RCF,Airedale NHS Foundation Trust,North East and Yorkshire,61.88,68.43,6.56,13.57,56.96,66.21,-9.24,74.99,False,Needs faster improvement,61.05,59.76,0.00,16.95,22.31,79889,114.00,61.00
+RMC,Bolton NHS Foundation Trust,North West,71.84,68.11,-3.73,13.89,64.78,64.07,0.71,68.11,False,Needs faster improvement,65.81,53.86,30.17,18.46,21.44,146217,100.00,90.00
+RAJ,Mid and South Essex NHS Foundation Trust,East of England,66.75,68.05,1.30,13.95,69.50,74.49,-4.99,69.35,False,Needs faster improvement,69.82,62.07,22.47,12.14,25.02,427943,81.00,50.00
+RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,South East,65.65,68.04,2.39,13.96,67.95,64.19,3.77,70.44,False,Needs faster improvement,65.36,54.07,25.92,15.53,24.91,125247,103.00,88.00
+R0D,University Hospitals Dorset NHS Foundation Trust,South West,72.11,67.69,-4.42,14.31,70.99,70.43,0.55,67.69,False,Needs faster improvement,68.65,59.92,21.78,9.90,21.53,236811,90.00,60.00
+RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",East of England,60.15,67.28,7.13,14.72,64.40,63.04,1.36,74.41,False,Needs faster improvement,64.78,57.13,17.85,8.64,22.78,98691,105.00,76.00
+RK9,University Hospitals Plymouth NHS Trust,South West,65.78,66.98,1.20,15.02,65.42,69.09,-3.67,68.18,False,Needs faster improvement,66.65,37.83,47.19,15.98,17.01,204076,97.00,120.00
+RA9,Torbay and South Devon NHS Foundation Trust,South West,69.84,66.61,-3.23,15.39,70.22,70.19,0.03,66.61,False,Needs faster improvement,67.40,52.57,33.34,6.47,17.57,128042,93.00,95.00
+RJE,University Hospitals of North Midlands NHS Trust,Midlands,64.58,66.45,1.87,15.55,66.24,67.60,-1.36,68.31,False,Needs faster improvement,66.33,46.78,35.93,18.61,19.02,301692,98.00,115.00
+RWE,University Hospitals of Leicester NHS Trust,Midlands,58.94,66.42,7.48,15.58,62.58,62.65,-0.07,73.90,False,Needs faster improvement,63.63,60.93,0.00,10.91,27.51,300481,108.00,56.00
+RA7,Bristol NHS Foundation Trust,South West,68.04,66.16,-1.88,15.84,70.09,68.50,1.60,66.16,False,Needs faster improvement,68.73,65.88,0.00,8.12,28.05,263523,87.00,30.00
+RWW,North Cheshire and Mersey NHS Foundation Trust,North West,64.09,65.96,1.87,16.04,74.55,63.54,11.01,67.83,False,Needs faster improvement,71.48,52.57,40.97,48.16,14.95,146059,69.00,94.00
+RX1,Nottingham University Hospitals NHS Trust,Midlands,53.01,65.79,12.77,16.21,67.17,56.23,10.94,78.56,False,Needs faster improvement,65.40,42.93,40.50,19.50,19.12,302125,102.00,119.00
+RTE,Gloucestershire Hospitals NHS Foundation Trust,South West,60.74,64.57,3.83,17.43,63.04,62.22,0.82,68.40,False,Needs faster improvement,63.56,63.56,0.00,16.39,18.97,169456,109.00,43.00
+RYR,University Hospitals Sussex NHS Foundation Trust,South East,66.95,64.53,-2.42,17.47,59.89,65.18,-5.29,64.53,False,Needs faster improvement,62.83,59.19,6.27,11.28,25.54,397622,111.00,65.00
+RRK,University Hospitals Birmingham NHS Foundation Trust,Midlands,62.76,64.34,1.58,17.66,69.10,64.18,4.92,65.92,False,Needs faster improvement,67.24,58.80,20.28,19.17,24.27,521580,94.00,68.00
+RWA,Hull University Teaching Hospitals NHS Trust,North East and Yorkshire,58.51,64.02,5.51,17.98,57.88,58.69,-0.81,69.53,False,Needs faster improvement,60.18,47.19,29.49,12.46,26.70,172599,115.00,112.00
+RLQ,Wye Valley NHS Trust,Midlands,63.23,63.68,0.45,18.32,65.51,66.47,-0.96,64.12,False,Needs faster improvement,64.92,58.81,2.18,12.13,19.68,87608,104.00,67.00
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,North West,59.80,63.58,3.78,18.42,65.47,59.29,6.17,67.36,False,Needs faster improvement,64.30,48.74,30.73,23.66,23.95,124633,106.00,110.00
+RN5,Hampshire Hospitals NHS Foundation Trust,South East,66.12,62.87,-3.25,19.13,62.75,67.62,-4.87,62.87,False,Needs faster improvement,62.97,49.17,30.31,0.45,24.84,177235,110.00,107.00
+RD1,Royal United Hospitals Bath NHS Foundation Trust,South West,58.55,62.64,4.09,19.36,56.84,57.40,-0.56,66.74,False,Needs faster improvement,57.45,57.45,0.00,6.01,31.17,109621,117.00,72.00
+RNN,North Cumbria Integrated Care NHS Foundation Trust,North East and Yorkshire,64.34,62.62,-1.72,19.38,63.64,63.81,-0.17,62.62,False,Needs faster improvement,62.69,54.16,20.46,16.31,18.98,136163,112.00,87.00
+RBL,Wirral University Teaching Hospital NHS Foundation Trust,North West,62.14,61.49,-0.65,20.51,52.54,58.40,-5.86,61.49,False,Needs faster improvement,58.57,46.09,26.48,31.53,20.55,131601,116.00,116.00
+RJR,Countess of Chester Hospital NHS Foundation Trust,North West,59.43,60.98,1.55,21.02,60.36,63.75,-3.39,62.54,False,Needs faster improvement,61.50,50.51,30.84,36.68,23.24,98302,113.00,101.00
+RTP,Surrey and Sussex Healthcare NHS Trust,South East,64.30,54.85,-9.44,27.15,52.93,60.96,-8.03,54.85,False,Needs faster improvement,55.90,55.90,0.00,19.41,30.21,123896,118.00,78.00
+RXW,The Shrewsbury and Telford Hospital NHS Trust,Midlands,52.48,52.77,0.29,29.23,51.63,53.36,-1.73,53.07,False,Needs faster improvement,52.49,44.52,18.64,34.48,27.19,165557,119.00,118.00
+RJN,East Cheshire NHS Trust,North West,51.51,50.81,-0.69,31.19,50.60,47.41,3.19,50.81,False,Needs faster improvement,50.37,49.58,1.56,48.51,17.78,55665,120.00,104.00

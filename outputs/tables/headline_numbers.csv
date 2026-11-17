@@ -1,0 +1,18 @@
+,value
+latest_month,October 2026
+latest_pct_4h,73.965
+same_month_last_year_pct_4h,74.186
+march_2026_pct_4h,77.111
+latest_type1_pct_4h,60.149
+latest_trolley_waits_12h,57840
+trolley_waits_change_pct,6.468357692449289
+attendances_latest,2500999
+attendances_change_pct,4.153350774133302
+last_month_95pct_met,July 2015
+trusts,120
+trend_mae_pts,4.3629878073345445
+naive_mae_pts,3.9922166666666663
+trend_bias_pts,-1.8051982948178698
+corr_autumn_trend_vs_march_change,0.23872943805061456
+median_trust_change_march_to_march_pts,2.0830000000000055
+validation_max_diff_pts,0.0

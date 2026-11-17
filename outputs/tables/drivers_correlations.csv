@@ -1,0 +1,5 @@
+factor,corr_with_4h_all_types,corr_with_4h_major_ae_only
+12-hour trolley waits per 100 admissions (bed shortage),-0.365,-0.248
+Share of attendances at minor units / UTCs (case mix),0.299,-0.507
+Share of A&E patients admitted (patient acuity),-0.339,-0.030
+Total attendances (size),0.120,-0.131

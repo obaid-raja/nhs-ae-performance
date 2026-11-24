@@ -4,7 +4,7 @@
 
 This project uses NHS England's official monthly A&E statistics for every provider, **April 2024 to October 2026** (latest release), plus the national series back to 2010. It checks each of the 120 trusts with a major A&E against the 2026 and 2027 targets, tests whether a simple forecast can be trusted, and examines what separates the best performers from the rest. An interactive app lets you look up any trust.
 
-**▶ Interactive app:** *link added after deployment*
+**▶ Interactive app: [nhs-ae-performance.streamlit.app](https://nhs-ae-performance.streamlit.app/)**
 
 ## Results
 
